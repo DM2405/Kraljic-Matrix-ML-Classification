@@ -44,8 +44,8 @@ The workflow includes:
 
 
 ## How to Run the App
-Install dependencies:
-pip install -r requirements.txt
-Run the Streamlit app:
-streamlit run app.py
+-Install dependencies:
+-pip install -r requirements.txt
+-Run the Streamlit app:
+-streamlit run app.py
 
